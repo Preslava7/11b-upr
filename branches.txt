@@ -2,5 +2,11 @@ proba branches
 branch1
 NSA
 NSA
+<<<<<<< HEAD
 NSA8
 NSA8
+=======
+from branch3
+NSA3
+NSA3
+>>>>>>> branch3
